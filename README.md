@@ -1,6 +1,6 @@
 **Interactive Website Development**
 
-A modern, responsive, and interactive website developed using **HTML5**, **CSS3**, and **JavaScript**. This project demonstrates the core principles of front-end web development by combining semantic structure, responsive layouts, clean styling, and interactive functionality to deliver an engaging user experience.
+A modern, responsive, and interactive website developed using **HTML**, **CSS**, and **JavaScript**. This project demonstrates the core principles of front-end web development by combining semantic structure, responsive layouts, clean styling, and interactive functionality to deliver an engaging user experience.
 
 **Project Objectives**
 
@@ -46,6 +46,7 @@ This project reflects my practical understanding of:
 
 **Project Structure**
 
+```
 Interactive-Website/
 │
 ├── index.html
@@ -55,6 +56,7 @@ Interactive-Website/
 │   ├── images/
 │   └── icons/
 └── README.md
+```
 
 **Learning Outcomes**
 
