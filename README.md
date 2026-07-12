@@ -1,4 +1,4 @@
-**Interactive Website Development**
+***Interactive Website Development***
 
 A modern, responsive, and interactive website developed using **HTML**, **CSS**, and **JavaScript**. This project demonstrates the core principles of front-end web development by combining semantic structure, responsive layouts, clean styling, and interactive functionality to deliver an engaging user experience.
 
