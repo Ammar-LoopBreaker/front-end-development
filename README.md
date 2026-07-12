@@ -1,4 +1,4 @@
-#Interactive Website Development
+# Interactive Website Development
 
 A modern, responsive, and interactive website developed using **HTML**, **CSS**, and **JavaScript**. This project demonstrates the core principles of front-end web development by combining semantic structure, responsive layouts, clean styling, and interactive functionality to deliver an engaging user experience.
 
@@ -8,7 +8,7 @@ This project was created to strengthen my understanding of front-end development
 The website follows modern development practices, including semantic HTML, responsive design techniques, and JavaScript-based interactivity. The primary goal was to build a clean, user-friendly, and responsive interface while improving coding standards, maintainability, and overall user experience.
 Throughout the development process, I focused on writing structured, readable, and scalable code that can serve as a strong foundation for future web applications.
 
-**Key Features**
+## Key Features
 
 - Responsive layout for desktop, tablet, and mobile devices
 - Semantic HTML5 structure
@@ -19,7 +19,7 @@ Throughout the development process, I focused on writing structured, readable, a
 - Cross-browser compatibility
 - Simple and intuitive user experience
 
-**Technology Stack**
+## Technology Stack
 
 - HTML – Semantic webpage structure
 - CSS – Styling, layouts, and responsive design
@@ -28,7 +28,7 @@ Throughout the development process, I focused on writing structured, readable, a
 - Git – Version Control
 - GitHub – Repository Hosting
 
-**Skills Demonstrated**
+## Skills Demonstrated
 
 This project reflects my practical understanding of:
 
@@ -44,7 +44,7 @@ This project reflects my practical understanding of:
 - Clean Code Practices
 - Front-End Development Workflow
 
-**Project Structure**
+## Project Structure
 
 ```
 Interactive-Website/
@@ -58,7 +58,7 @@ Interactive-Website/
 └── README.md
 ```
 
-**Learning Outcomes**
+## Learning Outcomes
 
 Working on this project allowed me to strengthen my understanding of modern front-end development concepts and gain practical experience in building responsive and interactive web applications.
 
@@ -71,7 +71,7 @@ Through this project, I enhanced my ability to:
 - Organize project files using industry-standard practices.
 - Write clean, maintainable, and reusable code.
 
-**Future Improvements**
+## Future Improvements
 
 Some planned enhancements for this project include:
 
@@ -84,7 +84,7 @@ Some planned enhancements for this project include:
 - Performance Optimization
 - Enhanced User Experience
 
-**Project Highlights**
+## Project Highlights
 
 - Clean and responsive interface
 - Mobile-first design approach
@@ -92,12 +92,12 @@ Some planned enhancements for this project include:
 - Structured and maintainable codebase
 - Strong focus on front-end development best practices
 
-**Contributing**
+##Contributing
 
 Suggestions and improvements are always welcome.
 If you have ideas to enhance this project, feel free to fork the repository, open an issue, or submit a pull request.
 
-**License**
+## License
 
 This project is created for learning, practice, and portfolio purposes.
 
