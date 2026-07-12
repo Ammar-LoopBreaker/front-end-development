@@ -101,7 +101,8 @@ If you have ideas to enhance this project, feel free to fork the repository, ope
 
 This project is created for learning, practice, and portfolio purposes.
 
-**Support**
+
+## Support
 
 If you found this project helpful or interesting, consider giving it a *Star* on GitHub.
 
